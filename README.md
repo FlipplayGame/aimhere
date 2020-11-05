@@ -1,60 +1,61 @@
-Privacy Policy
-FN'Games built the Я всё могу app as a Commercial app. This SERVICE is provided by FN'Games and is intended for use as is.
+Политика конфиденциальности
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+FN'Games построила приложение Я всё могу как коммерческое приложение. Эта услуга предоставляется компанией FN'Games и предназначена для использования как есть.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Эта страница используется для информирования посетителей о моей политике сбора, использования и раскрытия личной информации, если кто-то решил воспользоваться моим сервисом.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Я всё могу unless otherwise defined in this Privacy Policy.
+Если вы решите воспользоваться моим сервисом, то вы соглашаетесь на сбор и использование информации в связи с настоящей Политикой. Личная информация, которую я собираю, используется для предоставления и улучшения сервиса. Я не буду использовать или передавать вашу информацию кому-либо, кроме как в соответствии с настоящей Политикой конфиденциальности.
 
-Information Collection and Use
+Термины, используемые в настоящей Политике конфиденциальности, имеют те же значения, что и в наших правилах и условиях, которые доступны по адресу Я всё могу, если иное не определено в настоящей Политике конфиденциальности.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+Сбор и использование информации
 
-The app does use third party services that may collect information used to identify you.
+Для лучшего опыта использования нашего сервиса я могу потребовать, чтобы вы предоставили нам определенную личную информацию. Информация, которую я запрашиваю, будет сохранена на вашем устройстве и никоим образом не собирается мной.
 
-Link to privacy policy of third party service providers used by the app
+Приложение действительно использует сторонние сервисы, которые могут собирать информацию, используемую для идентификации вас.
 
-Google Play Services
-AdMob
-Log Data
+Ссылка на политику конфиденциальности сторонних поставщиков услуг, используемых приложением
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+Сервисы Google Play
+В Admob
+каротажные данные
+
+Я хочу сообщить вам, что всякий раз, когда вы пользуетесь моим сервисом, в случае ошибки в приложении я собираю данные и информацию (через сторонние продукты) на вашем телефоне под названием Log Data. Эти данные журнала могут включать в себя такую информацию, как адрес интернет-протокола вашего устройства (“IP”), имя устройства, версию операционной системы, конфигурацию приложения при использовании моего сервиса, время и дату вашего использования сервиса и другие статистические данные.
 
 Cookies
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Файлы cookie-это файлы с небольшим объемом данных, которые обычно используются в качестве анонимных уникальных идентификаторов. Они отправляются в ваш браузер с веб-сайтов, которые вы посещаете, и хранятся во внутренней памяти вашего устройства.
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Этот сервис не использует эти “куки” явно. Однако приложение может использовать сторонний код и библиотеки, которые используют “cookies” для сбора информации и улучшения своих услуг. У вас есть возможность либо принять, либо отказаться от этих файлов cookie и знать, когда файл cookie отправляется на ваше устройство. Если вы решите отказаться от наших файлов cookie, вы не сможете использовать некоторые части этой услуги.
 
-Service Providers
+сфера услуг
 
-I may employ third-party companies and individuals due to the following reasons:
+Я могу нанимать сторонние компании и частных лиц по следующим причинам:
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Чтобы облегчить наше обслуживание;
+Чтобы предоставить услугу от нашего имени;
+Для выполнения услуг,связанных с обслуживанием; или
+Чтобы помочь нам в анализе того, как используется наш сервис.
+Я хочу сообщить пользователям этого сервиса, что эти третьи лица имеют доступ к вашей личной информации. Причина в том, чтобы выполнять задачи, возложенные на них от нашего имени. Однако они обязаны не разглашать и не использовать эту информацию для каких-либо других целей.
 
-Security
+Безопасность
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Я ценю ваше доверие к предоставлению нам вашей личной информации, поэтому мы стремимся использовать коммерчески приемлемые средства ее защиты. Но помните, что ни один способ передачи данных через интернет, ни один способ электронного хранения не является на 100% безопасным и надежным, и я не могу гарантировать его абсолютную безопасность.
 
-Links to Other Sites
+Ссылки на другие сайты
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Этот сервис может содержать ссылки на другие сайты. Если вы нажмете на стороннюю ссылку, вы будете перенаправлены на этот сайт. Обратите внимание, что эти внешние сайты не управляются мной. Поэтому я настоятельно рекомендую вам ознакомиться с политикой конфиденциальности этих веб-сайтов. Я не контролирую и не несу никакой ответственности за содержание, политику конфиденциальности или практику любых сторонних сайтов или сервисов.
 
-Children’s Privacy
+Личная жизнь детей
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+Эти услуги не предназначены для лиц моложе 13 лет. Я сознательно не собираю личную информацию от детей младше 13 лет. В случае, если я обнаруживаю, что ребенок в возрасте до 13 лет предоставил мне личную информацию, я немедленно удаляю ее с наших серверов. Если вы являетесь родителем или опекуном и вам известно, что ваш ребенок предоставил нам личную информацию, пожалуйста, свяжитесь со мной, чтобы я мог предпринять необходимые действия.
 
-Changes to This Privacy Policy
+Изменения в настоящей Политике конфиденциальности
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+Я могу время от времени обновлять нашу политику конфиденциальности. Таким образом, мы рекомендуем вам периодически просматривать эту страницу на предмет любых изменений. Я буду уведомлять вас о любых изменениях, разместив новую Политику конфиденциальности на этой странице.
 
-This policy is effective as of 2020-11-08
+Эта политика вступает в силу с 2020-11-08 годов
 
-Contact Us
+связаться с нами
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at killyoutime@gmail.com.
+Если у вас есть какие-либо вопросы или предложения по поводу моей Политики конфиденциальности, не стесняйтесь обращаться ко мне по адресу killyoutime@gmail.com
